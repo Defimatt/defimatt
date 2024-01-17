@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-- Available for custom Solidity development work
-- Email: dufflesdev@protonmail.com
-- Telegram: @defimatt
-
 <!--
 **Defimatt/defimatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
